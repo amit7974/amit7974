@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **JWT,SOCKETIO,AWS,DOCKER,Jenkins**
 
-- 👨‍💻 All of my projects are available at [https://bejewelled-dolphin-4c1fda.netlify.app/](https://bejewelled-dolphin-4c1fda.netlify.app/)
+- 👨‍💻 All of my projects are available here.
 
-- 💬 Ask me about **Reactjs**
+- 💬 Ask me about **Java,Springboot,RestAPI,Microservices,Docker,AWS**
 
 - 📫 How to reach me **7974189893**
 
